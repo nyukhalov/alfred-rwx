@@ -1,7 +1,7 @@
 '''
-RWX v0.1
+RWX v1.0
 
-Github: https://github.com/???
+Github: https://github.com/nyukhalov/alfred-rwx
 Author: Roman Niukhalov
 '''
 
